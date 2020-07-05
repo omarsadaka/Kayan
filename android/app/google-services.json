@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "754778099454",
+    "firebase_url": "https://kayan-2f3c6.firebaseio.com",
+    "project_id": "kayan-2f3c6",
+    "storage_bucket": "kayan-2f3c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754778099454:android:82f0c4cb9d8e7654",
+        "android_client_info": {
+          "package_name": "com.technosaab.kayan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754778099454-rnvs23ponh4ismjmmkaqk1tuod84nfhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEyRCiAGhnlg0mE_Y8IgYKutUh08DwFzc"
+        },
+        {
+          "current_key": "AIzaSyBuQlx6RQUVSg5MTjYCl5vNpa7SdIZuUgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754778099454-rnvs23ponh4ismjmmkaqk1tuod84nfhb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754778099454-3hg2pop3e682s446tatngkfpiv5orcee.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.kayan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754778099454:android:c294f1618e0063f385dfaf",
+        "android_client_info": {
+          "package_name": "com.technosaab.newkayan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754778099454-pubi1pebdntddmvmrhrf86s31j8vj04f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technosaab.newkayan",
+            "certificate_hash": "c637909c6e589e5150874127cc229fb0b8b3ef87"
+          }
+        },
+        {
+          "client_id": "754778099454-rnvs23ponh4ismjmmkaqk1tuod84nfhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEyRCiAGhnlg0mE_Y8IgYKutUh08DwFzc"
+        },
+        {
+          "current_key": "AIzaSyBuQlx6RQUVSg5MTjYCl5vNpa7SdIZuUgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754778099454-rnvs23ponh4ismjmmkaqk1tuod84nfhb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754778099454-3hg2pop3e682s446tatngkfpiv5orcee.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.kayan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
